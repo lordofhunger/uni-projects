@@ -1,0 +1,46 @@
+--START
+- To start the game you have to open the folder
+  called game files, in which you will find the
+  file called HYPERSPACE INVADERS.rkt, if you
+  click this you can start playing the game.
+- Winning/Losing a level: If you win a level,
+  the game continues, if you lose, you see a
+  "GAME OVER" screen, despite this making it
+  seem like the game is over you can simply
+  restart by pressing the 'R' key on your 
+  keyboard.
+
+-- KEYS
+- Use 'P' to freeze or unfreeze the screen.
+- Use the left '<' and right '>' arrow keys
+  to move your x-wing left or right to dodge
+  enemy bolts or catch powerups, but look
+  closely at what you catch, because not all
+  powerups have a positive effect (II, V, VII
+  and IX).
+- Use the up arrow '^' to shoot bolts at the
+  enemy fleet.
+- You can press shift and a number on your
+  keyboard to use the corresponding powerup.
+
+-- INFORMATION
+- You can find a lot of information on the
+  top bar, the most left number tells you the
+  current difficulty, which goes up every five
+  levels, the number next to that lets you
+  keep track of which level you are on,
+  and the third number tells you the amount
+  of lives you have left.
+  On the right hand side of the screen you
+  can see the scoreboard, the number on the
+  left is the current score, and the number
+  on the right is the highscore, which you
+  have to try to beat. Good luck!
+
+-- CREDITS
+- All images were drawn by rod.
+- all "game-noises" (firing, powerup and
+  explosion sounds) were borrowed (stolen)
+  from noises from Star Wars.
+- Song 2 Was composed by Plegeus based on
+  Song 1, which was composed by rod.

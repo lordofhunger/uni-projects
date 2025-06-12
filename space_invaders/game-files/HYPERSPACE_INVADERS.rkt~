@@ -1,0 +1,16 @@
+#lang r5rs
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                           HYPERSPACE INVADERS                              ;;
+;;                                                                            ;;
+;;                           Leemans Rob, 1Ba CW                              ;;
+;;                           Fase 2    2020-2021                              ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+(load "game.rkt")
+
+
+; read GAME MANUAL for instructions
+; and extra information
